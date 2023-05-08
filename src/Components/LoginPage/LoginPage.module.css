@@ -1,0 +1,46 @@
+body{
+    background-color: #F6F7FB;
+    font-family: 'Poppins', sans-serif;
+}
+
+.LoginPage{
+    width:550px;
+    height:350px;
+    box-shadow: 2px 4px 4px #E4E4E7;
+    margin: auto;
+    margin-top: 150px;
+    background-color: #FFFFFF;
+}
+.heading{
+    padding-top:30px;
+    padding-left:40px
+}
+
+.inputField{
+    width:90%;
+    height:40px;
+    margin-top:20px;
+    margin:auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom:10px;
+    border:none;
+    border-bottom: 2px solid #8C8C8C;
+    outline: none;
+    /* text-align: center; */
+}
+
+.submitBtn{
+    width:90%;
+    height:40px;
+    border-radius: 15px;
+    background-color: #20B883;
+     text-align: center;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     margin:auto;
+     border:none;
+     outline:none
+}
